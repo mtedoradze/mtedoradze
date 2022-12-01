@@ -5,4 +5,4 @@
 
 Languages and tools: Python/Django/DRF/PostgreSQL/Gunicorn/Nginx/Unittest/Docker/Docker-Compose/Yandex.Cloud/Linux/Nginx.
 
-- 📫 How to reach me: [telegram: @mariia_tedoradze](https://t.me/mariia_tedoradze) or email: mtedoradze@gmail.com
+##### - 📫 How to reach me: [telegram: @mariia_tedoradze](https://t.me/mariia_tedoradze) or email: mtedoradze@gmail.com
